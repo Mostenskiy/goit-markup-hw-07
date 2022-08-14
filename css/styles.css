@@ -47,11 +47,7 @@ p {
   margin: -1px;
 }
 /* base styles */
-.card-cet {
-  display: flex;
-  gap: 30px;
-  flex-wrap: wrap;
-}
+
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
