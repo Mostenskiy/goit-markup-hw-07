@@ -74,9 +74,8 @@ body {
   margin-right: auto;
 }
 */
-/* element styles */
 /* header */
-
+/*
 .header {
   letter-spacing: 0.02em;
   line-height: 1.142;
@@ -88,7 +87,6 @@ body {
   display: flex;
   align-content: center;
 }
-
 .logo {
   font-family: "Raleway";
   font-style: normal;
@@ -106,6 +104,7 @@ body {
 .header__logo--accent {
   color: var(--color-black);
 }
+
 .nav {
   margin-right: auto;
 }
@@ -171,9 +170,10 @@ body {
 .header__item-cont__link:focus .header__item-cont__link-icon {
   fill: currentColor;
 }
-
+*/
 /* header end */
 /*hero*/
+/*
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
@@ -183,6 +183,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .hero_title {
   margin-right: auto;
   margin-left: auto;
@@ -196,6 +197,8 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
+*/
+/*
 .button {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -224,12 +227,16 @@ body {
   padding-right: 32px;
   margin: 0 auto;
 }
+*/
+/*
 .button:hover,
 .button:focus {
   background-color: #188ce8;
 }
+*/
 /*hero end*/
 /*benefits*/
+/*
 .benefits__list {
   display: flex;
   gap: 30px;
@@ -252,6 +259,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+
 .benefits__title {
   margin-bottom: 10px;
   font-weight: 700;
@@ -261,12 +269,14 @@ body {
   text-transform: uppercase;
   color: var(--color-black);
 }
+*/
 /*benefits end*/
 /*aboot section */
-
+/*
 .aboot {
   padding-top: 0;
 }
+
 .section-title {
   text-align: center;
   font-weight: 700;
@@ -275,9 +285,11 @@ body {
   letter-spacing: 0.03em;
   color: var(--color-black);
 }
+
 .aboot__section-title {
   margin-bottom: 50px;
 }
+
 .aboot__list {
   display: flex;
   gap: 30px;
@@ -306,13 +318,17 @@ body {
   background-color: rgba(47, 48, 58, 0.8);
   color: var(--color-white);
 }
+*/
 /*team*/
+/*
 .team {
   background-color: var(--color-background-team);
 }
+
 .team__teamsection-title {
   margin-bottom: 50px;
 }
+
 .team__list {
   display: flex;
   gap: 30px;
@@ -376,11 +392,13 @@ body {
 .social__link:hover .social__icon,
 .social__link:focus .social__icon {
   fill: var(--color-white);
-}
+}*/
 /* client */
+/*
 .client__title {
   margin-bottom: 50px;
 }
+
 .client__list {
   display: flex;
   gap: 30px;
@@ -414,8 +432,9 @@ body {
 .client__item__link:focus .client__item__link-icon {
   fill: var(--color-blue);
 }
-
+*/
 /*footer*/
+/*
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -426,6 +445,7 @@ body {
   gap: 70px;
   align-items: baseline;
 }
+
 .footer__logo {
   display: block;
   margin-bottom: 20px;
@@ -456,7 +476,8 @@ body {
 .footer__kontakt-item__link:hover,
 .footer__kontakt-item__link:focus {
   color: var(--color-white);
-}
+}*/
+/*
 .footer-title {
   display: block;
   font-weight: 700;
@@ -469,16 +490,20 @@ body {
 .footer__social-title {
   margin-bottom: 20px;
 }
+
 .footer__social-icon {
   fill: var(--color-white);
 }
+*/
 /*------footer form ------*/
+/*
 .footer-form {
   margin-left: auto;
 }
 .footer-title__title {
   margin-bottom: 20px;
 }
+
 .fooer-form__set {
   display: flex;
   gap: 12px;
@@ -504,12 +529,14 @@ body {
   gap: 10px;
   width: 200px;
 }
+
 .footer__form__btg-icon {
   fill: var(--color-white);
 }
+*/
 /* page portfolio */
 /* filter */
-
+/*
 .filter__list {
   display: flex;
   gap: 8px;
@@ -544,6 +571,7 @@ body {
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
 }
+
 .portfolio {
   display: flex;
   gap: 30px;
@@ -612,7 +640,9 @@ body {
   font-size: 16px;
   line-height: 1.875;
 }
+*/
 /*------ modal windows -------*/
+/*
 .backdrop {
   position: fixed;
   top: 0;
@@ -676,8 +706,9 @@ body {
 .modal__btn:focus .modal__btn-icon {
   fill: var(--color-blue);
 }
+*/
 /*------- modal form ------*/
-
+/*
 .form-modal__title {
   display: block;
   text-align: center;
@@ -802,3 +833,4 @@ body {
   padding-left: 52px;
   padding-right: 52px;
 }
+*/

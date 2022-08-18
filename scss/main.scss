@@ -23,7 +23,12 @@
 //*  components styles  *//
 @import"./components/section";
 @import"./components/container";
-
+@import"./components/buttons";
+@import"./components/titles";
+@import"./components/socials";
+@import"./components/footer-form";
+@import"./components/modal-window";
+@import"./components/modal-form";
 
 
 
@@ -32,3 +37,14 @@
 
 
 //* layout  styles  *//
+@import"./layout/header";
+@import"./layout/logo";
+@import"./layout/nav";
+@import"./layout/contacts";
+@import"./layout/hero";
+@import"./layout/benefits";
+@import"./layout/about";
+@import"./layout/team";
+@import"./layout/client";
+@import"./layout/footer";
+@import"./layout/portfolio";
